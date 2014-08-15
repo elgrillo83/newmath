@@ -1,3 +1,4 @@
+// Package newmath is a trivial example package.
 package newmath
 
 func Sqrt(x float64) float64 {
